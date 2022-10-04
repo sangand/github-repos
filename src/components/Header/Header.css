@@ -1,0 +1,8 @@
+.app-header {
+    text-align: center;
+    background-color: lightblue;
+    height: 3rem;
+    line-height: 3rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+}

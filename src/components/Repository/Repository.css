@@ -1,0 +1,14 @@
+.repo-details {
+    display: grid;
+    grid-template-columns: 10rem 1fr;
+    margin: 2rem 8rem 2rem 2rem;
+}
+
+.field-name {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.field-value {
+    color: blue;
+}
